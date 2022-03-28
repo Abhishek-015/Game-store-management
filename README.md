@@ -10,8 +10,8 @@
 
 
  
-> I have cloned the Medium website as project of my construct week at **Masai School**.
-> I built this website fully responsive and implemented maximum design.
+> I have made the Game store management app during the unit evaluation of **Masai School**.
+> I have built this app fully responsive and implemented standard design.
  
   
 ## Tech-stack and framework
